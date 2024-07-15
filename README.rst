@@ -11,7 +11,7 @@ SignNow is a powerful web-based e-signature solution that streamlines the signin
 API Contact Information
 -----------------------
 
-If you have questions about the SignNow API, please visit [https://help.signnow.com/docs](https://help.signnow.com/docs) or email [api@signnow.com](mailto:api@signnow.com).
+If you have questions about the SignNow API, please visit `https://help.signnow.com/docs <https://help.signnow.com/docs>`_ or email `api@signnow.com <mailto:api@signnow.com>`_.
 
 See additional contact information at the bottom.
 
@@ -49,7 +49,7 @@ Setup
 Examples
 ========
 
-To run the examples you will need an API key. You can get one here [https://www.signnow.com/api](https://www.signnow.com/api). For a full list of accepted parameters, refer to the SignNow REST Endpoints API guide: [https://help.signnow.com/docs](https://help.signnow.com/docs).
+To run the examples you will need an API key. You can get one here `https://www.signnow.com/api <https://www.signnow.com/api>`_. For a full list of accepted parameters, refer to the SignNow REST Endpoints API guide: `https://help.signnow.com/docs <https://help.signnow.com/docs>`_.
 
 OAuth2
 ======
@@ -349,7 +349,7 @@ Create Link
 LICENSE
 -------
 
-This project is released under the Apache 2.0 [License](https://github.com/signnow/SNPythonSDK/blob/master/LICENSE.md).
+This project is released under the Apache 2.0 `License <https://github.com/signnow/SNPythonSDK/blob/master/LICENSE.md)>`_.
 
 Additional Contact Information
 ==============================
@@ -357,9 +357,9 @@ Additional Contact Information
 SUPPORT
 -------
 
-To contact SignNow support, please email [support@signnow.com](mailto:support@signnow.com).
+To contact SignNow support, please email `support@signnow.com <mailto:support@signnow.com>`_.
 
 SALES
 -----
 
-For pricing information please call (800) 831-2050 or email [sales@signnow.com](mailto:sales@signnow.com).
+For pricing information please call (800) 831-2050 or email `sales@signnow.com <mailto:sales@signnow.com>`_.
